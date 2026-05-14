@@ -1,8 +1,8 @@
 [BOM.csv](https://github.com/user-attachments/files/27769047/BOM.csv)<img width="540" height="828" alt="Robot Dog -" src="https://github.com/user-attachments/assets/f035b9a1-829e-49d0-b69a-e58e7c43fdfb" />
 
-#Robot Dog
+# Robot Dog
 
-#Why I made This?
+# Why I made This?
 
 I made this because my parents never let me have a pet and i wanted a dog ever since and after seeing those unitree robot dogs i wanted to make one too a robot which follows my instructions and is autonomous too and it looks kinda cool so i made one.
 
@@ -11,7 +11,7 @@ I made this because my parents never let me have a pet and i wanted a dog ever s
 
 This is the 3d model and many people mught think its ugly which even i do but its my first robot dog so i like it that i have done something atleast later on i will upgrade it for sure if i have time to do it.
 
-#BOM
+# BOM
 [UploadingParts,Price,Link
 ,,
 ESP-32,$3.50 – $5.00,https://bit.ly/4uQbTun
