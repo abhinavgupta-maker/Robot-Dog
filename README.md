@@ -11,4 +11,6 @@ I Made it for my personal use as i was very fascinated by the untitree robot dog
 This is the 3d model and many people mught think its ugly which even i do but its my first robot dog so i like it that i have done something atleast later on i will upgrade it for sure if i have time to do it.
 
 #BOM
+[BOM.xlsx](https://github.com/user-attachments/files/27750762/BOM.xlsx)
 
+The BOM consists of all parts but i have some of them already so i might not need to buy them and In the Parts File in CAD folder you might see that there are some wierd parts which is there for the chasis which will be fixed by me before printing it and other than that the code consists of IK for basic movement of the robot dog.
