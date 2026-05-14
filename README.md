@@ -1,7 +1,7 @@
 # NYX - Robot Dog
 
 # Zine
-[BOM.csv](https://github.com/user-attachments/files/27769047/BOM.csv)<img width="540" height="828" alt="Robot Dog -" src="https://github.com/user-attachments/assets/f035b9a1-829e-49d0-b69a-e58e7c43fdfb" />
+<img width="832" height="1276" alt="Zine" src="https://github.com/user-attachments/assets/f694401a-563d-4920-a271-de515735b819" />
 
 
 
