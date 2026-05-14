@@ -1,4 +1,5 @@
-<img width="540" height="828" alt="Zine" src="https://github.com/user-attachments/assets/f70d2470-3d86-4c55-b555-8c30be9bcd74" />
+<img width="540" height="828" alt="Robot Dog -" src="https://github.com/user-attachments/assets/f035b9a1-829e-49d0-b69a-e58e7c43fdfb" />
+
 #Robot Dog
 
 #Why I made This?
@@ -15,3 +16,4 @@ This is the 3d model and many people mught think its ugly which even i do but it
 
 The BOM consists of all parts but i have some of them already so i might not need to buy them and In the Parts File in CAD folder you might see that there are some wierd parts which is there for the chasis which will be fixed by me before printing it and other than that the code consists of IK for basic movement of the robot dog.
 
+<img width="1917" height="907" alt="Screenshot 2026-05-14 152822" src="https://github.com/user-attachments/assets/ce25e47f-4902-4bea-8521-973222abe078" />
