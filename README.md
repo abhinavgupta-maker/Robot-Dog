@@ -3,8 +3,7 @@
 # Zine
 <img width="1080" height="1080" alt="Untitled" src="https://github.com/user-attachments/assets/6e445fb8-d9da-4759-b8ab-69fb053762ef" />
 
-The Zine might look Ai generated but its not i used to search for a background and took inspiration From AI but did not copy paste and if i did i would never do it again.
-
+The Zine might look Ai generated but its not i used to search for a background and took inspiration From AI but did not copy paste.
 
 
 
