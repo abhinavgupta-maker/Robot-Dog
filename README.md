@@ -12,6 +12,9 @@ The Zine might look Ai generated but its not i used to search for a background a
 
 I made this because my parents never let me have a pet and i wanted a dog ever since and after seeing those unitree robot dogs i wanted to make one too a robot which follows my instructions and is autonomous too and it looks kinda cool so i made one.
 
+# Steps to Assemble
+
+Firstly get the 3D model printed and you can even customize it before getting it printed and make sure to use screws to fix the chasis and clamps for the servos then get the components wired up as shown in the schematic and place them properly after that make sure the esp32 is outside while uploading the code foe ease and after uploading it close the chasis and i would recommend using a powerbank for powering it othervise you can use a battery too but make sure to use a buck convertor so you dont fry your components.
 
 <img width="2048" height="1536" alt="9555a96b-198f-45f8-9cd0-74a5c20d4f81" src="https://github.com/user-attachments/assets/e3694349-0cb8-4fee-b2d7-df2b5cedcf01" />
 
