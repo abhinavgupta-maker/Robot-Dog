@@ -1,7 +1,8 @@
 # NYX - Robot Dog
 
 # Zine
-<img width="1080" height="1080" alt="Untitled" src="https://github.com/user-attachments/assets/6e445fb8-d9da-4759-b8ab-69fb053762ef" />
+<img width="540" height="828" alt="NNYXYX (1)" src="https://github.com/user-attachments/assets/48fccef6-51d9-4c9d-96ff-8da01aba18b6" />
+
 
 The Zine might look Ai generated but its not i used to search for a background and took inspiration From AI but did not copy paste.
 
