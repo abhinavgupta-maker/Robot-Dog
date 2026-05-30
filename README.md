@@ -4,10 +4,6 @@
 <img width="540" height="828" alt="NNYXYX (1)" src="https://github.com/user-attachments/assets/48fccef6-51d9-4c9d-96ff-8da01aba18b6" />
 
 
-The Zine might look Ai generated but its not i used to search for a background and took inspiration From AI but did not copy paste.
-
-
-
 # Why I made This?
 
 I made this because my parents never let me have a pet and i wanted a dog ever since and after seeing those unitree robot dogs i wanted to make one too a robot which follows my instructions and is autonomous too and it looks kinda cool so i made one.
