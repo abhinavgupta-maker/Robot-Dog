@@ -13,7 +13,11 @@ I made this because my parents never let me have a pet and i wanted a dog ever s
 
 # Steps to Assemble
 
-Firstly get the 3D model printed and you can even customize it before getting it printed and make sure to use screws to fix the chasis and clamps for the servos then get the components wired up as shown in the schematic and place them properly after that make sure the esp32 is outside while uploading the code foe ease and after uploading it close the chasis and i would recommend using a powerbank for powering it othervise you can use a battery too but make sure to use a buck convertor so you dont fry your components.
+1) Get all the components listed in BOM and get the chasis 3d printed.
+2) Start soldering all the components as listed and follow the Schematic in the Repo.
+3) Assemble the 3d printed chasis with screws and you can have some changes of your own.
+4) put all the components in the chasis and make sure to keep the port of esp32 outsidde so that you can connect it.
+5) Upload the code of the robot dog as in the repo you can even write your own code for custom actions.
 
 <img width="2048" height="1536" alt="9555a96b-198f-45f8-9cd0-74a5c20d4f81" src="https://github.com/user-attachments/assets/e3694349-0cb8-4fee-b2d7-df2b5cedcf01" />
 
