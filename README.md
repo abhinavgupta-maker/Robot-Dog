@@ -1,8 +1,8 @@
 # NYX - Robot Dog
 
 # Zine
-<img width="540" height="828" alt="NNYXYX (1)" src="https://github.com/user-attachments/assets/48fccef6-51d9-4c9d-96ff-8da01aba18b6" />
 
+<img width="540" height="828" alt="NNYXYX (2)" src="https://github.com/user-attachments/assets/06c0155a-d4c7-4059-9118-c5fed0a33fdc" />
 
 # Why I made This?
 
