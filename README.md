@@ -26,6 +26,10 @@ This is the schematic for my robot  dog but i didnt add the esp32 cam as it woul
 
 This is the 3d model and many people mught think its ugly which even i do but its my first robot dog so i like it that i have done something atleast later on i will upgrade it for sure if i have time to do it.
 
+# Final Build 
+
+<img width="1402" height="1122" alt="WhatsApp Image 2026-08-22 at 3 22 06 PM" src="https://github.com/user-attachments/assets/9160044a-25da-42dc-8198-cff2fa68719e" />
+<img width="720" height="1216" alt="WhatsApp Image 2026-08-22 at 3 23 07 PM" src="https://github.com/user-attachments/assets/4e7e4c45-a284-42a1-b74b-371ce47f1b40" />
 
 # BOM
 [UploadingParts,Price,Link
