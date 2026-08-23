@@ -28,8 +28,8 @@ This is the 3d model and many people mught think its ugly which even i do but it
 
 # Final Build 
 
-<img width="1402" height="1122" alt="WhatsApp Image 2026-08-22 at 3 22 06 PM" src="https://github.com/user-attachments/assets/9160044a-25da-42dc-8198-cff2fa68719e" />
-<img width="720" height="1216" alt="WhatsApp Image 2026-08-22 at 3 23 07 PM" src="https://github.com/user-attachments/assets/4e7e4c45-a284-42a1-b74b-371ce47f1b40" />
+<img width="1280" height="577" alt="WhatsApp Image 2026-08-21 at 4 32 27 PM" src="https://github.com/user-attachments/assets/c83c66be-417e-4ccc-9d8d-8e649bd432ac" />
+<img width="1600" height="721" alt="WhatsApp Image 2026-08-21 at 4 33 17 PM" src="https://github.com/user-attachments/assets/e80e9990-2f66-4752-96dd-f7ac024fc809" />
 
 # BOM
 [UploadingParts,Price,Link
