@@ -2,7 +2,7 @@
 
 # Zine
 
-![Uploading image.png…]()
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/6c6a5a5c-d8f9-4813-a181-89848c4d5887" />
 
 # Description 
 
