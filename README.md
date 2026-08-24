@@ -4,6 +4,10 @@
 
 <img width="540" height="828" alt="NNYXYX (2)" src="https://github.com/user-attachments/assets/06c0155a-d4c7-4059-9118-c5fed0a33fdc" />
 
+# Description 
+
+This is a 8 DOF robot dog which uses MG996R servo motors, Mic for voice commands and much more. It can do multiple stuff like Autonomous walking, Following voice commands like "SIT" and "STAND" etc. it is around 15 cm in height while standing
+
 # Why I made This?
 
 I made this because my parents never let me have a pet and i wanted a dog ever since and after seeing those unitree robot dogs i wanted to make one too a robot which follows my instructions and is autonomous too and it looks kinda cool so i made one.
@@ -18,13 +22,13 @@ I made this because my parents never let me have a pet and i wanted a dog ever s
 
 <img width="2048" height="1536" alt="9555a96b-198f-45f8-9cd0-74a5c20d4f81" src="https://github.com/user-attachments/assets/e3694349-0cb8-4fee-b2d7-df2b5cedcf01" />
 
-This is the 3d model and many people mught think its ugly which even i do but its my first robot dog so i like it that i have done something atleast later on i will upgrade it for sure if i have time to do it.
+This is the 3d model and many people might think its ugly which even i do but its my first robot dog so i like it that i have done something atleast later on i will upgrade it for sure if i have time to do it.
 
 <img width="863" height="537" alt="Screenshot 2026-05-14 220738" src="https://github.com/user-attachments/assets/e3179e3f-6a56-4f8f-94fd-e9d966dc5e29" />
 
-This is the schematic for my robot  dog but i didnt add the esp32 cam as it would be a lone component just for camera feed and wasnt able to TFT display as i want able to find the desired one.
+This is the schematic for my robot  dog but i didn't add the esp32 cam as it would be a lone component just for camera feed and wasnt able to TFT display as i want able to find the desired one.
 
-This is the 3d model and many people mught think its ugly which even i do but its my first robot dog so i like it that i have done something atleast later on i will upgrade it for sure if i have time to do it.
+This is the 3d model and many people might think its ugly which even i do but its my first robot dog so i like it that i have done something atleast later on i will upgrade it for sure if i have time to do it.
 
 # Final Build 
 
@@ -45,7 +49,7 @@ Total = ,60-80$,
  BOM.csv…]()
 
 
-The BOM consists of all parts but i have some of them already so i might not need to buy them and In the Parts File in CAD folder you might see that there are some wierd parts which is there for the chasis which will be fixed by me before printing it and other than that the code consists of IK for basic movement of the robot dog.
+The BOM consists of all parts but i have some of them already so i might not need to buy them and In the Parts File in CAD folder you might see that there are some weird parts which is there for the chasis which will be fixed by me before printing it and other than that the code consists of IK for basic movement of the robot dog.
 
 <img width="1917" height="907" alt="Screenshot 2026-05-14 152822" src="https://github.com/user-attachments/assets/ce25e47f-4902-4bea-8521-973222abe078" />
 
