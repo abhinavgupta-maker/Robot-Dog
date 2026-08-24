@@ -2,7 +2,7 @@
 
 # Zine
 
-<img width="540" height="828" alt="NNYXYX (2)" src="https://github.com/user-attachments/assets/06c0155a-d4c7-4059-9118-c5fed0a33fdc" />
+![Uploading image.png…]()
 
 # Description 
 
